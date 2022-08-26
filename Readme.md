@@ -1,4 +1,4 @@
-# Project 8
+# Project 9
 This project is a landing page for a web development agency. It was created as assignment nine in Ineuron js bootcamp. This assignment was a good practice to solidify concepts of positioning , flexbox, media queries and grid. This page is mobile responsive.
 
 ## Tech Stack
@@ -6,7 +6,7 @@ This project is a landing page for a web development agency. It was created as a
 - Css
 
 ### Time Taken  
-- 8 hours
+- 10 hours
 
 ### Deployed link
 
